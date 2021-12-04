@@ -1,4 +1,4 @@
-container:
-  image: gcc:latest
+freebsd_instance:
+  image_family: freebsd-13-0
 task:
   tests_script: make tests
