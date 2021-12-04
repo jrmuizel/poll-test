@@ -1,0 +1,1 @@
+all: pipe-pollpri test
